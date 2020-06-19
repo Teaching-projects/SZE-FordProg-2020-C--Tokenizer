@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fordprog_Tokenizer/1.0.0": {
+        "runtime": {
+          "Fordprog_Tokenizer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fordprog_Tokenizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+E:\Letöltések\Fordprog_Tokenizer\bin\Debug\netcoreapp3.1\Fordprog_Tokenizer.exe
+E:\Letöltések\Fordprog_Tokenizer\bin\Debug\netcoreapp3.1\Fordprog_Tokenizer.deps.json
+E:\Letöltések\Fordprog_Tokenizer\bin\Debug\netcoreapp3.1\Fordprog_Tokenizer.runtimeconfig.json
+E:\Letöltések\Fordprog_Tokenizer\bin\Debug\netcoreapp3.1\Fordprog_Tokenizer.runtimeconfig.dev.json
+E:\Letöltések\Fordprog_Tokenizer\bin\Debug\netcoreapp3.1\Fordprog_Tokenizer.dll
+E:\Letöltések\Fordprog_Tokenizer\bin\Debug\netcoreapp3.1\Fordprog_Tokenizer.pdb
+E:\Letöltések\Fordprog_Tokenizer\obj\Debug\netcoreapp3.1\Fordprog_Tokenizer.csprojAssemblyReference.cache
+E:\Letöltések\Fordprog_Tokenizer\obj\Debug\netcoreapp3.1\Fordprog_Tokenizer.AssemblyInfoInputs.cache
+E:\Letöltések\Fordprog_Tokenizer\obj\Debug\netcoreapp3.1\Fordprog_Tokenizer.AssemblyInfo.cs
+E:\Letöltések\Fordprog_Tokenizer\obj\Debug\netcoreapp3.1\Fordprog_Tokenizer.csproj.CoreCompileInputs.cache
+E:\Letöltések\Fordprog_Tokenizer\obj\Debug\netcoreapp3.1\Fordprog_Tokenizer.dll
+E:\Letöltések\Fordprog_Tokenizer\obj\Debug\netcoreapp3.1\Fordprog_Tokenizer.pdb
+E:\Letöltések\Fordprog_Tokenizer\obj\Debug\netcoreapp3.1\Fordprog_Tokenizer.genruntimeconfig.cache
